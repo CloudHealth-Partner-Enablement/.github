@@ -8,4 +8,4 @@
 3. Determine source code management rules/guidelines
    - Direct push/no review?
    - Edit and submit pull request?
-4. Transfer temporary collection from the [https://github.com/Cloudhealth-Arrow/good-practice-reports](PS repo) to this repo in the correct structure
+4. Transfer temporary collection from the [PS repo](https://github.com/Cloudhealth-Arrow/good-practice-reports) to this repo in the correct structure
